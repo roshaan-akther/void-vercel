@@ -1,2 +1,13 @@
-# void-vercel
-Void's parts implemented in Vercel
+#### void-vercel
+Void's Components implemented in Vercel
+
+# Property Repository Documentation
+
+Welcome to the official documentation for the Property Repository managed by Void Inc.
+
+...
+
+---
+
+**DECLARATION:**  
+THIS PROPERTY REPOSITORY IS THE SOLE PROPERTY OF AND IS MANAGED EXCLUSIVELY BY ROSHAAN AKTHER, FOUNDER OF VOID INC., A REGISTERED AND LEGALLY INCORPORATED COMPANY, AND SHALL BE GOVERNED UNDER THE AUTHORITY, POLICIES, AND APPLICABLE LAWS OF VOID INC. AND ITS JURISDICTION OF INCORPORATION.
